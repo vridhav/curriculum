@@ -69,7 +69,7 @@ Third, there's a really handy shortcut for opening everything within a project d
 
 - **Linux**: You can open VSCode from the command line by typing `code`, and you can open folders or files by adding the name of the location after it: `code my_awesome_project/`.
 
-- **macOS**: Some setup is required. After installing VSCode, launch it any way you're comfortable with. Once it's running, open the Command Palette with <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>. In the little dialog that appears, type `shell command`. One of the choices that appears will be `Shell Command: Install 'code' command in PATH`. Select that option and restart the terminal if you have it open.
+- **macOS**: Some setup is required. After installing VSCode, launch it any way you're comfortable with. Once it's running, open the Command Palette with <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>. In the little dialog that appears, type `shell command`. One of the choices that appears will be `Shell Command: Install 'code' command in PATH`. Select that option and restart the terminal if you have it open. You can now open VSCode by typing `code` in the terminal, `code` followed by the location of the folder to open a particular folder in VScode: `code my_awesome_project/`.
 
 - **WSL2**: Opening up VSCode from the command line in WSL2 is just as easy as it is in Linux. Just enter `code`, which will open VSCode in WSL2.
 
